@@ -1,0 +1,14 @@
+K:\CSharp\Sample_1\Sample\Client0\Client0\bin\Debug\net7.0\Client0.exe
+K:\CSharp\Sample_1\Sample\Client0\Client0\bin\Debug\net7.0\Client0.deps.json
+K:\CSharp\Sample_1\Sample\Client0\Client0\bin\Debug\net7.0\Client0.runtimeconfig.json
+K:\CSharp\Sample_1\Sample\Client0\Client0\bin\Debug\net7.0\Client0.dll
+K:\CSharp\Sample_1\Sample\Client0\Client0\bin\Debug\net7.0\Client0.pdb
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\Client0.GeneratedMSBuildEditorConfig.editorconfig
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\Client0.AssemblyInfoInputs.cache
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\Client0.AssemblyInfo.cs
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\Client0.csproj.CoreCompileInputs.cache
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\Client0.dll
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\refint\Client0.dll
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\Client0.pdb
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\Client0.genruntimeconfig.cache
+K:\CSharp\Sample_1\Sample\Client0\Client0\obj\Debug\net7.0\ref\Client0.dll
